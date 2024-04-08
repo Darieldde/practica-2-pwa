@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung G s23",
+    "description": "Samsung G s23 esta a <span class=\"label label-info\">800 USD</span>",
+    "price": 800
+  },
+  {
+    "id": 2,
+    "title": "Iphone 12 pro max",
+    "description": "Iphone 12 pro max esta a <span class=\"label label-info\">650 USD</span>",
+    "price": 600
+  },
+  {
+    "id": 3,
+    "title": "Iphone 14 pro max",
+    "description": "Iphone 14 pro max esta a <span class=\"label label-info\">1500 USD</span>",
+    "price": 1500 
+  },
+
+  {
+    "id": 4,
+    "title": "Airpods pro 2da G",
+    "description": "Airpods pro 2da G estan a <span class=\"label label-info\">320 USD</span>",
+    "price": 320 
+  },
+
+  {
+    "id": 5,
+    "title": "Laptop HP Pavilon",
+    "description": "Laptops HP pavilon estan a <span class=\"label label-info\">650 USD USD</span>",
+    "price": 650 
+  }
+
+
+]
