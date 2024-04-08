@@ -1,8 +1,8 @@
 {
   "name": "nodejs-shopping-cart",
   "version": "1.0.0",
-  "author": "George Tsopouridis",
-  "email": "gtsopour@gmail.com",
+  "author": "Dariel Dilone Espinal",
+  "email": "mrdariel2@gmail.com",
   "private": false,
   "scripts": {
     "start": "node app.js",
